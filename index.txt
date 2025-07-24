@@ -1,2 +1,2 @@
 https://raw.githubusercontent.com/Searchstars/AstroBox-Plugins/refs/heads/main/
-https://raw.githubusercontent.com/wuhaiqi0621/AstroBox-Plugins-Repo/refs/heads/main/
+https://raw.githubusercontent.com/wuhaiqi0621/HyperBox_Plugin_ForAstroBox/refs/heads/main/
