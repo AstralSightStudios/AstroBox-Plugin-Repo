@@ -1,2 +1,3 @@
-https://raw.githubusercontent.com/Searchstars/AstroBox-Plugins/refs/heads/main/
 https://raw.githubusercontent.com/wuhaiqi0621/HyperBox_Plugin_ForAstroBox/refs/heads/main/
+https://raw.githubusercontent.com/waterflames-team/clartime-velaapp-astroplugininfo/refs/heads/main/
+https://raw.githubusercontent.com/leset0ng/com.bandbbs.ebook-AstroBox/refs/heads/master/
