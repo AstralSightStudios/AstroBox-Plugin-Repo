@@ -1,3 +1,4 @@
 https://raw.githubusercontent.com/wuhaiqi0621/HyperBox_Plugin_ForAstroBox/refs/heads/main/
 https://raw.githubusercontent.com/waterflames-team/clartime-velaapp-astroplugininfo/refs/heads/main/
 https://raw.githubusercontent.com/leset0ng/com.bandbbs.ebook-AstroBox/refs/heads/master/
+https://raw.githubusercontent.com/zyhsck/ab_imagewatchfacepro/refs/heads/main/
