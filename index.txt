@@ -3,3 +3,4 @@ https://raw.githubusercontent.com/waterflames-team/clartime-velaapp-astroplugini
 https://raw.githubusercontent.com/leset0ng/com.bandbbs.ebook-AstroBox/refs/heads/master/
 https://raw.githubusercontent.com/zyhsck/ab_imagewatchfacepro/refs/heads/main/
 https://raw.githubusercontent.com/sf-yuzifu/Daymatter-AstroBox-Plugin/refs/heads/main/
+https://raw.githubusercontent.com/yzl3014/AstroBox_SimpleRSS_Tools/refs/heads/master/
