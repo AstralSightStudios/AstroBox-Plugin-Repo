@@ -8,3 +8,4 @@ https://raw.githubusercontent.com/zaona/simple-weather-astrobox-plugin/refs/head
 https://raw.githubusercontent.com/CheongSzesuen/VelaVerify-AstroBox-Plugin/refs/heads/main/
 https://raw.githubusercontent.com/OrPudding/OMusic_AstroBox-Plugin/refs/heads/main/
 https://raw.githubusercontent.com/sf-yuzifu/bandcomic_AstroBox-Plugin/refs/heads/main/
+https://raw.githubusercontent.com/leezelyn/Sync/refs/heads/main/
